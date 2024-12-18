@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Randhir]!
+# 👋 Hi, I'm Randhir!
 
 🚀 **DevOps Engineer | AWS Certified Solutions Architect**  
 💻 **Crafting robust, scalable, and automated solutions for 11+ years.**
